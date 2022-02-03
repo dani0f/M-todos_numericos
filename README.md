@@ -1,3 +1,3 @@
 Numerical Methods
 
-different numerical methods in MatLab.
+Different numerical methods in MatLab.
